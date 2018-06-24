@@ -1,544 +1,552 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="J2048:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f6a3b6b5-3b6a-4927-8167-46671645d14a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J2048.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/main/DirectEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/main/GameMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/main/GameMain1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/main/GameMain2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/main/GameMain4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/main/WaveThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/ImageFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Tile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Win$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Win$GameBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Win$Tile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Win.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window$ModeBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window1$GameBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window1$Tile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window2$GameBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window3$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window3$GameBoard$array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window3$GameBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window3$Tile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window4$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window4$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window4$GameBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window4$ModeBoard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/com/view/Window5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/Camera Roll/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/c0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/c3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/j0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/j1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/j2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/j3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/p0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/p01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/p02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/p1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/p2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/p3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/icon/p4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/0000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/1529068602_766022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/1529071099_289751.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/1529071301_109753.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/1529071978_128075.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/bg21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/bg22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/bg31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/bg32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/btn01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/btn02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/btn03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/btn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/btn2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/btn3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/冰雪.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/img/暗黑.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/16384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/2048.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/4096.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num02/8196.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/2048.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg00.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/timg (6).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/timg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/172359198480.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/31-法术霜冰霜新星(Spell_Frost_FrostNo_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/31-法术霜冰霜防护结界(Spell_Frost_Frost_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/31-法术霜寒冰(Spell_Frost_Frostbolt_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/35a85edf8db1cb130c524791d154564e92584b7c (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/500fd9f9d72a60596dc62a382234349b033bba3a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/android怪物射击游戏《黑暗枪火》源码-地板10(Flo_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/android怪物射击游戏《黑暗枪火》源码-地板4(Floo_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/html5犀牛溜冰场源码-游戏 bg(game_bg)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/timg (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/timg (3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/timg (7).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/仿暗黑3小Demo源码-touxiangnei_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/冰雪奇缘高清图片设定集-D566-冰雪奇缘-高清艺术设定集-_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/横版跑酷休闲游戏《勇气传说2：冰封世界》素材-背景1(bg1_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/m魔法-冰-轻-005_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/冰块发射击中zth070509_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/冰球-发射_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/寒冰屏障出现-冰- 摆脱地球的块_ 突然从地面四(IceBl_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/寒风-3_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/风冷嚎叫循环4 - 风- 冷呼啸的风循环(Wind_Cold_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/resource.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/wav/merge.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/wav/move.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图2018061015016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图2018061015032.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180610150864.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611153849.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611153906.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611153924.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611153941.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611154003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611154022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-resultscore_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-升级(newgame)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-图标(icon)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-新闻(newscore)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片0(photo0)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片1024(photo1024_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片128(photo128)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片16(photo16)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片16384(photo163_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片2(photo2)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片2048(photo2048_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片256(photo256)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片32(photo32)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片4(photo4)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片4096(photo4096_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片512(photo512)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片64(photo64)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片8(photo8)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片8192(photo8192_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_1(blank_1)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_11(blank_11)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_12(blank_12)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_4(blank_4)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_5(blank_5)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_7(blank_7)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_8(blank_8)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_9(blank_9)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-宝石块(Jewe_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块(Ski_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块1(Sk_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块2(Sk_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗(S_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗1(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗2(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-22通道(22channel)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-25-2频道。(25-2chann_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-希法箴17(xiyou_fazhe_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-希法箴23(xiyou_fazhe_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_105-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_124-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_129-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_232-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_234-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_280-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_294-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_295-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_296-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_297-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_298-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_299-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_300-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_301-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_302-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_303-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_304-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_305-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_306-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_307-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_308-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_309-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_310-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-数组的方法12(Method fo_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴 waiquan(fazhen_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴(fazhen)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴12-4(fazhen12-4_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴122(fazhen122)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴1272(fazhen1272_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴15(fazhen15)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴22(fazhen22)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴24(fazhen24)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴40(fazhen40)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴41(fazhen41)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-祖贤法箴15(zuxian_faz_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电单个流_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电叉_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电球_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电单弧冯蓝_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电单弧蓝_1(lightning_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电单流蓝色单_1(lightni_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电叉混合(lightning_f_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电叉蓝色雪花道奇_1(light_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电攻击的速度_1(lightni_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电球混合(lightning_b_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电红(lightning_red_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为弧混合(lightning_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为形成弧形白色_1(ligh_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧紫色_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧绿色_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧蓝色_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-雷击0_混合(lightning__爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-雷击0_添加蓝色_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-雷击添加蓝色_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-雷击添加黄金_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-253F68cfddf140A99_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-6A6920E5C49945bdb_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-bosslife_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-enemylife_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-touxiang2_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-touxiang_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-生活1(life1)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-生活3(life3)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-鼠标(mouse)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/北斗无双-原画-04_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/另类飞行射击游戏《射杀恶魔》UI素材-保护(protecti_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/科幻网游《荒野星球》全套UI-袋窗口鼠标.tex(BagWi_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-信息提示(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_0(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_1(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_2(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-失败(fa_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-成功(su_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-按钮(bu_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/《开心消消乐》游戏素材资源全套-常见的 ui_2x.A331_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/《开心消消乐》游戏素材资源全套-朋友排名小组_2x.81F2_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/《开心消消乐》游戏素材资源全套-游戏玩 SceneUI_2x_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/另类飞行射击游戏《射杀恶魔》UI素材-gameUI14_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/另类飞行射击游戏《射杀恶魔》UI素材-gameUI15_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.add.能源.B596A456_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.下降.058ad42ff1D1_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.交换.3D51C55C3fd2_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.弹出窗口关闭.F53C6E4d_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.弹出窗口打开.63阿布扎比商业_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.星级.光.0B42398A12_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.消除1.7B4dbe290df_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.消除3.C1B345A9757_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.消除4.32B61588585_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.连轧比赛.3.0E6122ef_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.连轧比赛.5.ec8D43A8_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.键盘.73dc4A44bc6F_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/main/DirectEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/main/GameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/main/GameMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/main/GameMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/main/GameMain4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/main/WaveThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/view/ImageFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/view/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/view/Win.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/view/Window.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/view/Window1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/view/Window2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/view/Window3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/view/Window4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/view/Window5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/Camera Roll/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/c0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/c3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/icon00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/icon01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/icon02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/icon03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/j0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/j1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/j2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/j3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/p0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/p01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/p02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/p1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/p2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/p3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/icon/p4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/0000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/1529068602_766022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/1529071099_289751.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/1529071301_109753.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/1529071978_128075.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/bg21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/bg22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/bg31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/bg32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/btn01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/btn02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/btn03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/btn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/btn2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/btn3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/冰雪.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/img/暗黑.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/16384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/2048.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/4096.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num02/8196.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/2048.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/bg00.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/bg01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/bg02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/bg03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/bg10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/timg (6).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/timg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/172359198480.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/31-法术霜冰霜新星(Spell_Frost_FrostNo_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/31-法术霜冰霜防护结界(Spell_Frost_Frost_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/31-法术霜寒冰(Spell_Frost_Frostbolt_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/35a85edf8db1cb130c524791d154564e92584b7c (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/500fd9f9d72a60596dc62a382234349b033bba3a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/android怪物射击游戏《黑暗枪火》源码-地板10(Flo_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/android怪物射击游戏《黑暗枪火》源码-地板4(Floo_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/html5犀牛溜冰场源码-游戏 bg(game_bg)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/timg (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/timg (3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/timg (7).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/仿暗黑3小Demo源码-touxiangnei_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/冰雪奇缘高清图片设定集-D566-冰雪奇缘-高清艺术设定集-_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/新建文件夹/横版跑酷休闲游戏《勇气传说2：冰封世界》素材-背景1(bg1_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/音效/m魔法-冰-轻-005_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/音效/冰块发射击中zth070509_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/音效/冰球-发射_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/音效/寒冰屏障出现-冰- 摆脱地球的块_ 突然从地面四(IceBl_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/音效/寒风-3_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/num03/音效/风冷嚎叫循环4 - 风- 冷呼啸的风循环(Wind_Cold_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/resource.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/wav/merge.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/wav/move.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/数字/TIM截图2018061015016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/数字/TIM截图2018061015032.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/数字/TIM截图20180610150864.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611153849.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611153906.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611153924.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611153941.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611154003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611154022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-resultscore_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-升级(newgame)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-图标(icon)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-新闻(newscore)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片0(photo0)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片1024(photo1024_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片128(photo128)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片16(photo16)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片16384(photo163_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片2(photo2)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片2048(photo2048_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片256(photo256)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片32(photo32)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片4(photo4)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片4096(photo4096_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片512(photo512)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片64(photo64)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片8(photo8)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片8192(photo8192_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_1(blank_1)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_11(blank_11)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_12(blank_12)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_4(blank_4)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_5(blank_5)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_7(blank_7)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_8(blank_8)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_9(blank_9)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-宝石块(Jewe_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块(Ski_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块1(Sk_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块2(Sk_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗(S_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗1(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗2(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-22通道(22channel)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-25-2频道。(25-2chann_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-希法箴17(xiyou_fazhe_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-希法箴23(xiyou_fazhe_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_105-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_124-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_129-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_232-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_234-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_280-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_294-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_295-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_296-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_297-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_298-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_299-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_300-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_301-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_302-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_303-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_304-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_305-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_306-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_307-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_308-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_309-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_310-1(Effect_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-数组的方法12(Method fo_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴 waiquan(fazhen_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴(fazhen)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴12-4(fazhen12-4_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴122(fazhen122)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴1272(fazhen1272_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴15(fazhen15)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴22(fazhen22)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴24(fazhen24)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴40(fazhen40)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴41(fazhen41)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-祖贤法箴15(zuxian_faz_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电单个流_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电叉_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电球_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电单弧冯蓝_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电单弧蓝_1(lightning_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电单流蓝色单_1(lightni_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电叉混合(lightning_f_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电叉蓝色雪花道奇_1(light_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电攻击的速度_1(lightni_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电球混合(lightning_b_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电红(lightning_red_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为弧混合(lightning_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为形成弧形白色_1(ligh_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧紫色_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧绿色_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧蓝色_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-雷击0_混合(lightning__爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-雷击0_添加蓝色_1(lightn_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-雷击添加蓝色_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-雷击添加黄金_1(lightnin_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-253F68cfddf140A99_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-6A6920E5C49945bdb_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-bosslife_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-enemylife_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-touxiang2_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-touxiang_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-生活1(life1)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-生活3(life3)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-鼠标(mouse)_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/北斗无双-原画-04_爱给网_aigei_com.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/另类飞行射击游戏《射杀恶魔》UI素材-保护(protecti_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/暗黑/科幻网游《荒野星球》全套UI-袋窗口鼠标.tex(BagWi_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-信息提示(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_0(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_1(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_2(_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-失败(fa_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-成功(su_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-按钮(bu_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/《开心消消乐》游戏素材资源全套-常见的 ui_2x.A331_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/《开心消消乐》游戏素材资源全套-朋友排名小组_2x.81F2_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/《开心消消乐》游戏素材资源全套-游戏玩 SceneUI_2x_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/另类飞行射击游戏《射杀恶魔》UI素材-gameUI14_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/另类飞行射击游戏《射杀恶魔》UI素材-gameUI15_爱给网_aigei_com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.add.能源.B596A456_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.下降.058ad42ff1D1_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.交换.3D51C55C3fd2_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.弹出窗口关闭.F53C6E4d_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.弹出窗口打开.63阿布扎比商业_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.星级.光.0B42398A12_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.消除1.7B4dbe290df_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.消除3.C1B345A9757_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.消除4.32B61588585_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.连轧比赛.3.0E6122ef_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.连轧比赛.5.ec8D43A8_爱给网_aigei_com.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.键盘.73dc4A44bc6F_爱给网_aigei_com.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/view/WinOrigin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/J2048.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/main/DirectEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/main/GameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/main/GameMain1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/main/GameMain2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/main/GameMain4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/main/WaveThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/ImageFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Win$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Win$GameBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Win$Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Win.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window$ModeBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window1$GameBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window1$Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window2$GameBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window3$GameBoard$array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window3$GameBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window3$Tile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window4$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window4$GameBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window4$ModeBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/com/view/Window5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/Camera Roll/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/c1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/j0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/j1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/j2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/j3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/p0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/p01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/p02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/p1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/p2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/p3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/icon/p4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/1529068602_766022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/1529071099_289751.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/1529071301_109753.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/1529071978_128075.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/bg21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/bg22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/bg31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/bg32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/btn01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/btn02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/btn03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/btn1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/btn2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/btn3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/冰雪.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/img/暗黑.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/16384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/2048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/4096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num02/8196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/2048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/bg10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/timg (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/172359198480.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/31-法术霜冰霜新星(Spell_Frost_FrostNo_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/31-法术霜冰霜防护结界(Spell_Frost_Frost_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/31-法术霜寒冰(Spell_Frost_Frostbolt_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/35a85edf8db1cb130c524791d154564e92584b7c (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/500fd9f9d72a60596dc62a382234349b033bba3a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/android怪物射击游戏《黑暗枪火》源码-地板10(Flo_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/android怪物射击游戏《黑暗枪火》源码-地板4(Floo_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/html5犀牛溜冰场源码-游戏 bg(game_bg)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/timg (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/timg (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/timg (7).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/仿暗黑3小Demo源码-touxiangnei_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/冰雪奇缘高清图片设定集-D566-冰雪奇缘-高清艺术设定集-_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/新建文件夹/横版跑酷休闲游戏《勇气传说2：冰封世界》素材-背景1(bg1_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/m魔法-冰-轻-005_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/冰块发射击中zth070509_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/冰球-发射_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/寒冰屏障出现-冰- 摆脱地球的块_ 突然从地面四(IceBl_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/寒风-3_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/num03/音效/风冷嚎叫循环4 - 风- 冷呼啸的风循环(Wind_Cold_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/resource.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/wav/merge.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/wav/move.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图2018061015016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图2018061015032.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180610150864.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611153849.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611153906.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611153924.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611153941.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611154003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/数字/TIM截图20180611154022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-resultscore_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-升级(newgame)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-图标(icon)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-新闻(newscore)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片0(photo0)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片1024(photo1024_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片128(photo128)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片16(photo16)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片16384(photo163_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片2(photo2)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片2048(photo2048_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片256(photo256)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片32(photo32)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片4(photo4)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片4096(photo4096_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片512(photo512)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片64(photo64)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片8(photo8)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-照片8192(photo8192_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_1(blank_1)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_11(blank_11)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_12(blank_12)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_4(blank_4)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_5(blank_5)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_7(blank_7)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_8(blank_8)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/方块/安卓美化界面版2048源码-空白_9(blank_9)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-宝石块(Jewe_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块(Ski_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块1(Sk_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块2(Sk_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗(S_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗1(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗2(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-22通道(22channel)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-25-2频道。(25-2chann_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-希法箴17(xiyou_fazhe_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-希法箴23(xiyou_fazhe_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_105-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_124-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_129-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_232-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_234-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_280-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_294-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_295-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_296-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_297-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_298-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_299-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_300-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_301-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_302-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_303-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_304-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_305-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_306-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_307-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_308-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_309-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_310-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-数组的方法12(Method fo_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴 waiquan(fazhen_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴(fazhen)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴12-4(fazhen12-4_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴122(fazhen122)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴1272(fazhen1272_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴15(fazhen15)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴22(fazhen22)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴24(fazhen24)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴40(fazhen40)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-法箴41(fazhen41)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-祖贤法箴15(zuxian_faz_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电单个流_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电叉_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电球_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电单弧冯蓝_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电单弧蓝_1(lightning_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电单流蓝色单_1(lightni_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电叉混合(lightning_f_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电叉蓝色雪花道奇_1(light_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电攻击的速度_1(lightni_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电球混合(lightning_b_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电红(lightning_red_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为弧混合(lightning_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为形成弧形白色_1(ligh_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧紫色_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧绿色_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧蓝色_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-雷击0_混合(lightning__爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-雷击0_添加蓝色_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-雷击添加蓝色_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑3》特效与UI资源-雷击添加黄金_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-253F68cfddf140A99_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-6A6920E5C49945bdb_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-bosslife_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-enemylife_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-touxiang2_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-touxiang_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-生活1(life1)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-生活3(life3)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/仿暗黑3小Demo源码-鼠标(mouse)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/北斗无双-原画-04_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/另类飞行射击游戏《射杀恶魔》UI素材-保护(protecti_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/暗黑/科幻网游《荒野星球》全套UI-袋窗口鼠标.tex(BagWi_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-信息提示(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_0(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_1(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_2(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-失败(fa_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-成功(su_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/html5版开心消消乐源码-xiaoxiaole-按钮(bu_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/《开心消消乐》游戏素材资源全套-常见的 ui_2x.A331_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/《开心消消乐》游戏素材资源全套-朋友排名小组_2x.81F2_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/《开心消消乐》游戏素材资源全套-游戏玩 SceneUI_2x_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/另类飞行射击游戏《射杀恶魔》UI素材-gameUI14_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/另类飞行射击游戏《射杀恶魔》UI素材-gameUI15_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.add.能源.B596A456_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.下降.058ad42ff1D1_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.交换.3D51C55C3fd2_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.弹出窗口关闭.F53C6E4d_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.弹出窗口打开.63阿布扎比商业_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.星级.光.0B42398A12_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.消除1.7B4dbe290df_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.消除3.C1B345A9757_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.消除4.32B61588585_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.连轧比赛.3.0E6122ef_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.连轧比赛.5.ec8D43A8_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/J2048/resource/萌系/音效/《开心消消乐》音效素材-声音.键盘.73dc4A44bc6F_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/main/BtnThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/main/DirectEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/main/GameMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/main/GameMain1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/main/GameMain2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/main/GameMain4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/main/WaveThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/view/ImageFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/view/Tile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/view/Win.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/view/Window.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/view/Window1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/view/Window2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/view/Window3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/view/Window4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/view/Window5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/Camera Roll/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/c1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/icon00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/icon01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/icon02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/icon03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/icon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/j0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/j1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/j2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/j3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/p0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/p01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/p02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/p1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/p2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/p3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/icon/p4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/1529068602_766022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/1529071099_289751.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/1529071301_109753.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/1529071978_128075.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/bg21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/bg22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/bg31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/bg32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/btn01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/btn02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/btn03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/btn1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/btn2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/btn3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/冰雪.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/img/暗黑.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/16384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/2048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/4096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num02/8196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/2048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/bg00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/bg01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/bg02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/bg03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/bg10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/timg (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/172359198480.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/31-法术霜冰霜新星(Spell_Frost_FrostNo_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/31-法术霜冰霜防护结界(Spell_Frost_Frost_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/31-法术霜寒冰(Spell_Frost_Frostbolt_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/35a85edf8db1cb130c524791d154564e92584b7c (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/500fd9f9d72a60596dc62a382234349b033bba3a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/android怪物射击游戏《黑暗枪火》源码-地板10(Flo_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/android怪物射击游戏《黑暗枪火》源码-地板4(Floo_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/html5犀牛溜冰场源码-游戏 bg(game_bg)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/timg (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/timg (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/timg (7).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/仿暗黑3小Demo源码-touxiangnei_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/冰雪奇缘高清图片设定集-D566-冰雪奇缘-高清艺术设定集-_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/新建文件夹/横版跑酷休闲游戏《勇气传说2：冰封世界》素材-背景1(bg1_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/音效/m魔法-冰-轻-005_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/音效/冰块发射击中zth070509_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/音效/冰球-发射_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/音效/寒冰屏障出现-冰- 摆脱地球的块_ 突然从地面四(IceBl_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/音效/寒风-3_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/num03/音效/风冷嚎叫循环4 - 风- 冷呼啸的风循环(Wind_Cold_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/resource.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/wav/merge.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/wav/move.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/数字/TIM截图2018061015016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/数字/TIM截图2018061015032.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/数字/TIM截图20180610150864.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611153849.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611153906.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611153924.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611153941.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611154003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/数字/TIM截图20180611154022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-resultscore_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-升级(newgame)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-图标(icon)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-新闻(newscore)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片0(photo0)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片1024(photo1024_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片128(photo128)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片16(photo16)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片16384(photo163_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片2(photo2)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片2048(photo2048_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片256(photo256)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片32(photo32)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片4(photo4)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片4096(photo4096_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片512(photo512)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片64(photo64)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片8(photo8)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-照片8192(photo8192_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_1(blank_1)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_11(blank_11)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_12(blank_12)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_4(blank_4)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_5(blank_5)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_7(blank_7)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_8(blank_8)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/方块/安卓美化界面版2048源码-空白_9(blank_9)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-宝石块(Jewe_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块(Ski_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块1(Sk_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块2(Sk_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗(S_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗1(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/android怪物射击游戏《黑暗枪火》源码-技能小块黑暗2(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-22通道(22channel)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-25-2频道。(25-2chann_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-希法箴17(xiyou_fazhe_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-希法箴23(xiyou_fazhe_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_105-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_124-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_129-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_232-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_234-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_280-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_294-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_295-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_296-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_297-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_298-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_299-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_300-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_301-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_302-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_303-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_304-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_305-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_306-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_307-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_308-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_309-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-影响纹理_310-1(Effect_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-数组的方法12(Method fo_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴 waiquan(fazhen_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴(fazhen)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴12-4(fazhen12-4_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴122(fazhen122)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴1272(fazhen1272_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴15(fazhen15)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴22(fazhen22)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴24(fazhen24)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴40(fazhen40)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-法箴41(fazhen41)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-祖贤法箴15(zuxian_faz_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电单个流_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电叉_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-蓝色的闪电球_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电单弧冯蓝_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电单弧蓝_1(lightning_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电单流蓝色单_1(lightni_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电叉混合(lightning_f_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电叉蓝色雪花道奇_1(light_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电攻击的速度_1(lightni_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电球混合(lightning_b_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电红(lightning_red_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为弧混合(lightning_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为形成弧形白色_1(ligh_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧紫色_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧绿色_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-闪电行为起弧蓝色_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-雷击0_混合(lightning__爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-雷击0_添加蓝色_1(lightn_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-雷击添加蓝色_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑3》特效与UI资源-雷击添加黄金_1(lightnin_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-253F68cfddf140A99_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-6A6920E5C49945bdb_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/《暗黑破坏神》原画设定集-组织结构图(org)_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-bosslife_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-enemylife_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-touxiang2_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-touxiang_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-生活1(life1)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-生活3(life3)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/仿暗黑3小Demo源码-鼠标(mouse)_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/北斗无双-原画-04_爱给网_aigei_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/另类飞行射击游戏《射杀恶魔》UI素材-保护(protecti_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/暗黑/科幻网游《荒野星球》全套UI-袋窗口鼠标.tex(BagWi_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-信息提示(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_0(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_1(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-地板_2(_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-失败(fa_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-成功(su_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/html5版开心消消乐源码-xiaoxiaole-按钮(bu_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/《开心消消乐》游戏素材资源全套-常见的 ui_2x.A331_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/《开心消消乐》游戏素材资源全套-朋友排名小组_2x.81F2_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/《开心消消乐》游戏素材资源全套-游戏玩 SceneUI_2x_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/另类飞行射击游戏《射杀恶魔》UI素材-gameUI14_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/另类飞行射击游戏《射杀恶魔》UI素材-gameUI15_爱给网_aigei_com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.add.能源.B596A456_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.下降.058ad42ff1D1_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.交换.3D51C55C3fd2_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.弹出窗口关闭.F53C6E4d_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.弹出窗口打开.63阿布扎比商业_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.星级.光.0B42398A12_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.消除1.7B4dbe290df_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.消除3.C1B345A9757_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.消除4.32B61588585_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.连轧比赛.3.0E6122ef_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.连轧比赛.5.ec8D43A8_爱给网_aigei_com.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource/萌系/音效/《开心消消乐》音效素材-声音.键盘.73dc4A44bc6F_爱给网_aigei_com.mp3" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -553,8 +561,8 @@
       <file leaf-file-name="Window.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/view/Window.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-953">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="198">
+              <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -562,60 +570,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Window4.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/view/Window4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="610" column="77" selection-start-line="610" selection-start-column="77" selection-end-line="610" selection-end-column="77" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2136#2413#0" expanded="true" />
-                <element signature="e#2412#2413#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/view/Tile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="93" column="34" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameMain4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/main/GameMain4.java">
+      <file leaf-file-name="WaveThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/main/WaveThread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/main/GameMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Window2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/view/Window2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="460" selection-start-line="460" selection-end-line="460" />
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -638,6 +597,16 @@
       <find>image</find>
       <find>Wave</find>
       <find>paint</find>
+      <find>lscore</find>
+      <find>score</find>
+      <find>checkG</find>
+      <find>tile.</find>
+      <find>check</find>
+      <find>bgColor</find>
+      <find>isO</find>
+      <find>che</find>
+      <find>isOver</find>
+      <find>getscore</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -651,28 +620,50 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/main/DirectEnum.java" />
         <option value="$PROJECT_DIR$/src/com/view/ImageFrame.java" />
-        <option value="$PROJECT_DIR$/src/com/main/GameMain.java" />
         <option value="$PROJECT_DIR$/src/com/main/GameMain1.java" />
         <option value="$PROJECT_DIR$/src/com/main/WaveThread.java" />
         <option value="$PROJECT_DIR$/src/com/main/GameMain2.java" />
         <option value="$PROJECT_DIR$/src/com/view/Tile.java" />
-        <option value="$PROJECT_DIR$/src/com/view/Window5.java" />
-        <option value="$PROJECT_DIR$/src/com/main/pp.java" />
         <option value="$PROJECT_DIR$/src/com/view/Win.java" />
-        <option value="$PROJECT_DIR$/src/com/view/Window.java" />
         <option value="$PROJECT_DIR$/src/com/view/Window1.java" />
         <option value="$PROJECT_DIR$/src/com/view/Window3.java" />
         <option value="$PROJECT_DIR$/src/com/main/GameMain4.java" />
         <option value="$PROJECT_DIR$/src/com/view/Window2.java" />
+        <option value="$PROJECT_DIR$/src/com/main/BtnThread.java" />
+        <option value="$PROJECT_DIR$/src/com/view/Window5.java" />
+        <option value="$PROJECT_DIR$/src/com/view/windowByJCL.java" />
+        <option value="$PROJECT_DIR$/src/com/rank/yourScoreOfOriginal.java" />
+        <option value="$PROJECT_DIR$/src/com/main/GameMain.java" />
+        <option value="$PROJECT_DIR$/src/com/view/Help1.java" />
         <option value="$PROJECT_DIR$/src/com/view/Window4.java" />
+        <option value="$PROJECT_DIR$/src/com/main/pp.java" />
+        <option value="$PROJECT_DIR$/src/com/rank/xieru.java" />
+        <option value="$PROJECT_DIR$/src/a.form" />
+        <option value="$PROJECT_DIR$/src/com/rank/yourScore.java" />
+        <option value="$PROJECT_DIR$/src/com/rank/paihangbang.java" />
+        <option value="$USER_HOME$/Desktop/windwindow/win1.java" />
+        <option value="$PROJECT_DIR$/src/com/view/WinOrigin.java" />
+        <option value="$PROJECT_DIR$/src/com/view/WinMerge.java" />
+        <option value="$PROJECT_DIR$/src/com/view/Help.java" />
+        <option value="$PROJECT_DIR$/src/com/view/WinFall.java" />
+        <option value="$PROJECT_DIR$/src/com/view/Window.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="4" />
-    <option name="y" value="10" />
-    <option name="width" value="2612" />
-    <option name="height" value="1594" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1354" />
+    <option name="y" value="328" />
+    <option name="width" value="1306" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -703,7 +694,7 @@
               <item name="J2048" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="J2048" type="b2602c69:ProjectViewProjectNode" />
@@ -715,10 +706,24 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/J2048" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\File\profession\Java2048\J2048\src\resource\wav" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -732,7 +737,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GameMain">
     <configuration name="GameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.main.GameMain" />
       <module name="J2048" />
@@ -740,6 +745,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="xieru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rank.xieru" />
+      <module name="J2048" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -779,9 +795,14 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.GameMain" />
+      <item itemvalue="Application.xieru" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.GameMain" />
+        <item itemvalue="Application.xieru" />
       </list>
     </recent_temporary>
   </component>
@@ -795,40 +816,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528860367733</updated>
+      <workItem from="1529347091647" duration="34982000" />
+      <workItem from="1529471044141" duration="2316000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32729626" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003658" side_tool="true" weight="0.26131955" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49963424" weight="0.26131955" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Palette" order="10" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32642487" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010973" side_tool="true" weight="0.39896372" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4989027" weight="0.22797927" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1594733" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15508413" />
+      <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39974126" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.4989027" visible="true" weight="0.39896372" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="PlantUML" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" id="Code Iris" order="9" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -838,245 +871,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="76" />
+      <option name="time" value="88" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/view/ImageFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="46" column="88" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="21" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/GameMain1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/GameMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10494">
-          <caret line="490" column="54" lean-forward="true" selection-start-line="490" selection-start-column="54" selection-end-line="490" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/ImageFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="46" column="88" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/GameMain1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/GameMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3124">
-          <caret line="147" column="31" lean-forward="true" selection-start-line="147" selection-start-column="31" selection-end-line="147" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/DirectEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource/img/5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/ImageFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="46" column="88" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/GameMain2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="71" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="18" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/GameMain1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/pp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/java/awt/AWTEventMulticaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="277" selection-start-line="277" selection-end-line="277" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/javax/swing/JComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="3342" selection-start-line="3342" selection-end-line="3342" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/java/awt/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="2757" selection-start-line="2757" selection-end-line="2757" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8162">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Win.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9856">
-          <caret line="460" lean-forward="true" selection-start-line="460" selection-end-line="460" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Tencent Files/814903620/FileRecv/window.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Tencent Files/814903620/FileRecv/pp.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4128#4134#0" expanded="true" />
-            <element signature="e#13191#13192#0" expanded="true" />
-            <element signature="e#13223#13224#0" expanded="true" />
-            <element signature="e#13256#13257#0" expanded="true" />
-            <element signature="e#13291#13292#0" expanded="true" />
-            <element signature="e#21005#21006#0" expanded="true" />
-            <element signature="e#21036#21037#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/WaveThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/814903620/FileRecv/pp.java" />
     <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/javax/swing/JRootPane.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
@@ -1088,10 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="2999" selection-start-line="2999" selection-end-line="2999" />
-          <folding>
-            <element signature="e#40220#40221#0" expanded="true" />
-            <element signature="e#40266#40267#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1106,14 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="598" selection-start-line="598" selection-end-line="598" />
-          <folding>
-            <element signature="e#18600#18601#0" expanded="true" />
-            <element signature="e#18646#18647#0" expanded="true" />
-            <element signature="e#22104#22105#0" expanded="true" />
-            <element signature="e#22135#22136#0" expanded="true" />
-            <element signature="e#23224#23225#0" expanded="true" />
-            <element signature="e#23277#23278#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1121,17 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="526" selection-start-line="526" selection-end-line="526" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="2010" selection-start-line="2010" selection-end-line="2010" />
-          <folding>
-            <element signature="e#80480#80481#0" expanded="true" />
-            <element signature="e#80552#80553#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1153,10 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="140" selection-start-line="140" selection-end-line="140" />
-          <folding>
-            <element signature="e#2949#2950#0" expanded="true" />
-            <element signature="e#2974#2975#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1164,11 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="668" selection-start-line="668" selection-end-line="668" />
-          <folding>
-            <element signature="e#25078#25079#0" expanded="true" />
-            <element signature="e#121460#121461#0" expanded="true" />
-            <element signature="e#121514#121515#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1183,9 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="1511" selection-start-line="1511" selection-end-line="1511" />
-          <folding>
-            <element signature="e#58491#58492#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1196,48 +960,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/Window3.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/main/BtnThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/main/GameMain4.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/view/Window1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/view/Window2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/rank/yourScoreOfOriginal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/Window5.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/view/windowByJCL.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/view/Help1.java" />
     <entry file="file://$PROJECT_DIR$/src/com/main/GameMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/main/GameMain4.java">
+    <entry file="file://$PROJECT_DIR$/src/com/main/pp.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/rank/xieru.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-953">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="460" selection-start-line="460" selection-end-line="460" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="241">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/view/Tile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state>
           <caret line="93" column="34" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1245,14 +1000,375 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/view/Window4.java">
+    <entry file="file://$PROJECT_DIR$/src/com/view/Window4.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/main/Window2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/main/GameMain2.java" />
+    <entry file="file://$PROJECT_DIR$/src/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/a.form" />
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="156.0" y="462.701171875">com</node>
+            <node x="356.0" y="312.701171875">images</node>
+            <node x="0.0" y="312.701171875">netscape</node>
+            <node x="168.0" y="387.701171875">oracle</node>
+            <node x="179.0" y="312.701171875">resource</node>
+            <node x="148.0" y="537.701171875">org</node>
+            <node x="294.0" y="126.701171875">toolbarButtonGraphics</node>
+            <node x="0.0" y="537.701171875">sun</node>
+            <node x="219.0" y="237.701171875">META-INF</node>
+            <node x="295.0" y="537.701171875">jdk</node>
+            <node x="0.0" y="237.701171875">groovyjarjarasm</node>
+            <node x="308.0" y="462.701171875">java</node>
+            <node x="0.0" y="387.701171875">groovy</node>
+            <node x="0.0" y="462.701171875">javax</node>
+            <node x="30.0" y="126.701171875">groovyjarjarcommonscli</node>
+            <node x="330.0" y="387.701171875">javafx</node>
+            <node x="40.0" y="5.701171875">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+              <point x="59.0" y="15.0" />
+              <point x="187.5" y="75.701171875" />
+              <point x="0.0" y="75.701171875" />
+              <point x="0.0" y="10.701171875" />
+              <point x="-88.5" y="-10.0" />
+            </edge>
+            <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+              <point x="54.75" y="15.0" />
+              <point x="194.25" y="186.701171875" />
+              <point x="0.0" y="186.701171875" />
+              <point x="0.0" y="134.201171875" />
+              <point x="-109.5" y="-7.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-99.0" y="121.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com</OriginalElement>
+          <nodes>
+            <node x="183.0" y="196.0">com.oracle</node>
+            <node x="28.999999999999993" y="0.0">com.main</node>
+            <node x="30.000000000000007" y="80.0">com.view</node>
+            <node x="0.0" y="312.0">com.sun</node>
+            <node x="30.0" y="196.0">com.rank</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.view" target="com.view">
+              <point x="27.25" y="15.0" />
+              <point x="111.75" y="140.0" />
+              <point x="0.0" y="140.0" />
+              <point x="0.0" y="87.5" />
+              <point x="-54.5" y="-7.5" />
+            </edge>
+            <edge source="com.view" target="com.main">
+              <point x="-13.625000000000014" y="-15.0" />
+              <point x="-13.875" y="15.0" />
+            </edge>
+            <edge source="com.main" target="com.view">
+              <point x="41.625000000000014" y="15.0" />
+              <point x="40.874999999999986" y="-15.0" />
+            </edge>
+            <edge source="com.rank" target="com.rank">
+              <point x="27.0" y="15.0" />
+              <point x="111.0" y="256.0" />
+              <point x="0.0" y="256.0" />
+              <point x="0.0" y="203.5" />
+              <point x="-54.0" y="-7.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-209.0" y="8.0" />
+          <SelectedNodes>
+            <node>com.oracle</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.main.GameMain">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.main.GameMain</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.main.GameMain</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-282.0" y="-104.0" />
+          <SelectedNodes>
+            <node>com.main.GameMain</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.view.Window">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.view.Window</OriginalElement>
+          <nodes>
+            <node x="" y="">java.awt.Frame</node>
+            <node x="" y="">java.beans.JavaBean</node>
+            <node x="" y="">java.awt.Window</node>
+            <node x="" y="">javax.swing.SwingContainer</node>
+            <node x="" y="">javax.swing.RootPaneContainer</node>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">com.view.Window</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">javax.swing.JFrame</node>
+            <node x="" y="">javax.swing.WindowConstants</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="537.0" y="621.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.view.WinFall">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.view.WinFall</OriginalElement>
+          <nodes>
+            <node x="" y="">java.awt.Frame</node>
+            <node x="" y="">java.beans.JavaBean</node>
+            <node x="" y="">java.awt.Window</node>
+            <node x="" y="">javax.swing.SwingContainer</node>
+            <node x="" y="">javax.swing.RootPaneContainer</node>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">com.view.Window</node>
+            <node x="" y="">com.view.WinFall</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">javax.swing.JFrame</node>
+            <node x="" y="">javax.swing.WindowConstants</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="571.0" y="265.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/wav/move3.wav">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/wav/move1.wav">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rank/paihangbang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="610" column="77" selection-start-line="610" selection-start-column="77" selection-end-line="610" selection-end-column="77" />
+        <state relative-caret-position="286">
+          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.view.WinOrigin">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.view.WinOrigin</OriginalElement>
+          <nodes>
+            <node x="489.0" y="1064.0">com.main.GameMain</node>
+            <node x="0.0" y="1167.0">com.view.Help.setImg</node>
+            <node x="1018.0" y="0.0">com.view.Tile</node>
+            <node x="434.0" y="0.0">com.view.WinFall</node>
+            <node x="354.0" y="149.0">com.view.WinFall.GameBoard</node>
+            <node x="708.0" y="103.0">com.view.Window.ModeBoard</node>
+            <node x="0.0" y="149.0">com.view.WinMerge.GameBoard</node>
+            <node x="80.0" y="0.0">com.view.WinMerge</node>
+            <node x="50.5" y="1064.0">com.view.Help</node>
+            <node x="86.5" y="942.0">com.view.WinMerge.GameBoard.array</node>
+            <node x="766.0" y="0.0">com.view.Window</node>
+            <node x="295.0" y="1064.0">com.view.WinOrigin</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.view.Window.ModeBoard" target="com.view.Window">
+              <point x="0.0" y="-118.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.view.WinMerge.GameBoard" target="com.view.WinMerge">
+              <point x="0.0" y="-371.5" />
+              <point x="0.0" y="49.5" />
+            </edge>
+            <edge source="com.view.WinMerge.GameBoard.array" target="com.view.WinMerge.GameBoard">
+              <point x="0.0" y="-38.5" />
+              <point x="0.0" y="371.5" />
+            </edge>
+            <edge source="com.view.Help.setImg" target="com.view.Help">
+              <point x="0.0" y="-26.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.view.WinFall.GameBoard" target="com.view.WinFall">
+              <point x="0.0" y="-337.0" />
+              <point x="0.0" y="49.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="170.0" y="220.0" />
+          <SelectedNodes>
+            <node>com.main.GameMain</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>Production</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rank/yourScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="613" selection-start-line="613" selection-end-line="613" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/windwindow/win1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11330">
+          <caret line="563" selection-start-line="117" selection-end-line="563" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/WinMerge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="39" column="57" lean-forward="true" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2136#2413#0" expanded="true" />
-            <element signature="e#2412#2413#0" expanded="true" />
+            <element signature="e#7611#7829#0" />
+            <element signature="e#7839#8163#0" />
+            <element signature="e#8183#8670#0" />
+            <element signature="e#8670#9719#0" />
+            <element signature="e#10589#11210#0" />
+            <element signature="e#11220#11283#0" />
+            <element signature="e#11293#11359#0" />
+            <element signature="e#11372#11738#0" />
+            <element signature="e#11748#12116#0" />
+            <element signature="e#12126#12492#0" />
+            <element signature="e#12502#12867#0" />
+            <element signature="e#12877#13767#0" />
+            <element signature="e#13777#14621#0" />
+            <element signature="e#13992#14611#0" />
+            <element signature="e#14631#16035#0" />
+            <element signature="e#16045#17444#0" />
+            <element signature="e#17454#18817#0" />
+            <element signature="e#18827#20194#0" />
+            <element signature="e#20204#20501#0" />
+            <element signature="e#20511#21034#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/Help.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="843" selection-start-line="843" selection-end-line="843" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/WinFall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="70" column="24" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8419#8425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/WinOrigin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="223" column="31" selection-start-line="223" selection-start-column="20" selection-end-line="223" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#mouseEntered#0;class#GameBoard#0;class#WinOrigin#0" />
+            <element signature="method#mouseExited#0;class#GameBoard#0;class#WinOrigin#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/main/DirectEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/view/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/main/WaveThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1260,7 +1376,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>J2048:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>J2048</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

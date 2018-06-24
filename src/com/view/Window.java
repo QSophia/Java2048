@@ -25,19 +25,20 @@ public class Window extends JFrame {
     };
 
     private ModeBoard modeBoard;
-    private static final int WIDTH_BUT = 240 ;
-    private static final int HEIGHT_BUT = 70;
-    private Dimension frameSize = new Dimension(400, 500);
-    //ImageIcon icon = new ImageIcon("../J2048/src/resource/img/5.png" );
-    Image image=Toolkit.getDefaultToolkit().createImage("../J2048/src/resource/img/5.png");
+    private final int WIDTH_WIN = 400;
+    private final int HEIGHT_WIN = 500;
+    private final int WIDTH_BUT = 240 ;
+    private final int HEIGHT_BUT = 70;
+    private Dimension frameSize = new Dimension(WIDTH_WIN, HEIGHT_WIN);
+    ImageIcon icon = new ImageIcon("../J2048/src/resource/img/btn00.png" );
+    private Image image = Toolkit.getDefaultToolkit().createImage("../J2048/src/resource/img/bg00.png");
 
     public Window() {
         this.setLayout(null);
-        setTitle("2048");
+        setTitle("多玩2048");
         getContentPane().setPreferredSize(frameSize);
-        //setIconImage(imageIcon.getImage());
         //setUndecorated(true);
-        setIconImage(image);
+        setIconImage(icon.getImage());
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false); //去掉最大化按钮
         pack();    //获得最佳大小
@@ -46,22 +47,18 @@ public class Window extends JFrame {
     }
     public void initView() {
         //游戏面板组件
-        modeBoard = new ModeBoard(frameSize, image);
+        modeBoard = new ModeBoard();
         setContentPane(modeBoard);
         setVisible(true);
     }
 
     class ModeBoard extends JPanel implements MouseListener {
 
-        Dimension d;
-        Image image;
         public JButton btn[] = new JButton[3];
 
-        public ModeBoard(Dimension d, Image image) {
+        public ModeBoard() {
             super();
-            this.setLayout(null);
-            this.d = d;
-            this.image = image;
+            setLayout(null);
             addComponents(btn);
             addMouseListener(this);
         }
@@ -69,7 +66,7 @@ public class Window extends JFrame {
         @Override
         public void paintComponent(Graphics g) {
             super.paintComponent(g);
-            g.drawImage(image,0,0, d.width, d.height,this);
+            g.drawImage(image,0,0, WIDTH_WIN, HEIGHT_WIN,this);
             repaint();
         }
 
@@ -83,7 +80,7 @@ public class Window extends JFrame {
 
             ImageIcon imageIcon = smallerImg(new ImageIcon(f1[i])); // Icon由图片文件形成
             JButton b = new JButton(imageIcon); // 先new再进行设置，new设置好的button无效
-            b.setBounds(80, i * 120 + 90, WIDTH_BUT, HEIGHT_BUT);
+            b.setBounds(80, i * 90 + 210, WIDTH_BUT, HEIGHT_BUT);
             //btn.setBackground(new Color(2,2,2));
             //btn.setOpaque(false);
             //btn.setEnabled(false);
@@ -105,13 +102,13 @@ public class Window extends JFrame {
 
         public void mouseClicked(MouseEvent e) {
             if(e.getComponent().equals(btn[0])) {
-                new Window1();
+                new WinOrigin();
             }
             if(e.getComponent().equals(btn[1])) {
-                new Window2();
+                new WinFall();
             }
             if(e.getComponent().equals(btn[2])) {
-                new Window4();
+                new WinMerge();
             }
         }
 
